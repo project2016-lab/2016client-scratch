@@ -3,8 +3,12 @@ Documentation for simple3d.js:
 https://extensions.turbowarp.org/Xeltalliv/simple3D
 Extra Resources:
 https://xeltalliv.github.io/simple3d-extension/
+Custom Reporters:
+https://docs.turbowarp.org/return
 ```
 
 ```txt
 TODO:
-Implement custom character 
+Implement custom character [.glb]
+Improve UI and rendering.
+```
