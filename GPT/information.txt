@@ -1,0 +1,10 @@
+```txt
+Documentation for simple3d.js:
+https://extensions.turbowarp.org/Xeltalliv/simple3D
+Extra Resources:
+https://xeltalliv.github.io/simple3d-extension/
+```
+
+```txt
+TODO:
+Implement custom character 
